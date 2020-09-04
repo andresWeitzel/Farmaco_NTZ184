@@ -22,7 +22,9 @@
 
 ## 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
-## 5)Los campos para validar el ingreso de nuevos individuos son usuario:1 contraseña:1
+## 5)Los campos para validar el ingreso de nuevos individuos son
+* **usuario:1**
+* **contraseña:1**
 
 
 =============================================================================================
@@ -60,8 +62,9 @@
 ## 8)Ejecutar el .jar
 * **java -jar FarmacoNTZ184_app.jar**
 
-## 9)Los campos para validar el ingreso de nuevos individuos son usuario:1 contraseña:1
-
+## 9)Los campos para validar el ingreso de nuevos individuos son
+* **usuario:1**
+* **contraseña:1**
 
 
 
