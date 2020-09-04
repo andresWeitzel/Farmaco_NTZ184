@@ -22,4 +22,16 @@
 
 ## 4)Ejecutar el Proyecto desde el .jar o desde el ide
 
-# Descarga en Linux
+
+
+# DESCARGA EN LINUX(DESDE TERMINAL)
+## 1)Actualizar la lista de paquetes
+#### sudo apt -y update
+
+## 2)Clonar el repositorio del Proyecto
+#### git clone ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master***
+
+##2)Levantamos mysql
+#### service mysql start
+
+
