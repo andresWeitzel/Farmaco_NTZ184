@@ -22,9 +22,9 @@
 ## 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
 
-
+=========================================================================================================================
 # DESCARGA EN LINUX(DESDE TERMINAL)
-## 1)Actualizar la lista de paquetes
+## 1)Abrir Terminal y Actualizar la lista de paquetes
 #### sudo apt -y update
 
 ## 2)Levantar y verificar que esta corriendo el servicio de mysql
