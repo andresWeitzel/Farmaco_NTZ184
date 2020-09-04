@@ -6,10 +6,10 @@
 ## 1)Descargar y Descomprimir el comprimido
 ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 
-## 2)Levantar el servicio MYSQL DESDE ALGUN MOTOR DE BASE DE DATOS
+## 2)Levantar el servicio MYSQL DESDE ALGUN MOTOR DE BASE DE DATOS O DESDE EL CMD/POWERSHELL
 
-## 3)CONFIGURAR EL DRIVER DESEADO DE MYSQL JDBC ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** DESDE
-EL IDE.
+## 3)CONFIGURAR EL DRIVER DESEADO DE MYSQL JDBC DESDE EL IDE.
+***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 
 
 # Descarga en Linux
