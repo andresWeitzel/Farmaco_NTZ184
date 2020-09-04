@@ -12,7 +12,7 @@
 
 ### Desde el repositorio ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 
-### Dentro del proyecto ..\FarmacoNTZ184_app\src\mypackage\driver**
+### Dentro del proyecto **..\FarmacoNTZ184_app\src\mypackage\driver**
 
 
 # Descarga en Linux
