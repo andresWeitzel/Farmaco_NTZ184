@@ -25,7 +25,7 @@
 =========================================================================================================================
 # DESCARGA EN LINUX(DESDE TERMINAL)
 ## 1)Abrir Terminal y Actualizar la lista de paquetes
-#### sudo apt -y update
+### * **sudo apt -y update**
 
 ## 2)Levantar y verificar que esta corriendo el servicio de mysql
 ### sudo service mysql start
