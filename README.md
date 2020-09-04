@@ -3,16 +3,22 @@
 
 # DESCARGA EN WINDOWS
 
-## 1)Descargar y Descomprimir el comprimido
-***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
+## 1)Descargar y Descomprimir el Proyecto
+### Proyecto .rar ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
+### Proyecto .zip ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.zip***
+
 
 ## 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
 
+
 ## 3)Configurar el driver deseado de mysql jdbc desde el ide.
 
-### Desde el repositorio ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 
-### Dentro del proyecto **..\FarmacoNTZ184_app\src\mypackage\driver**
+### Driver desde repositorio ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 
+### Driver desde proyecto **..\FarmacoNTZ184_app\src\mypackage\driver**
+
+
+## 4)Ejecutar el Proyecto desde el .jar o desde el ide
 
 # Descarga en Linux
