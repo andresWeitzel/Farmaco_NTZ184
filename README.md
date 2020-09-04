@@ -3,7 +3,9 @@
 
 # DESCARGA EN WINDOWS
 
+```
 ## 1)Descargar y Descomprimir el Proyecto
+```
 ### Proyecto .rar ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 ### Proyecto .zip ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.zip***
 
