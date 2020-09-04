@@ -1,6 +1,8 @@
 # Proyecto_Farmaco_NTZ184
 *Proyecto  etapa de experimentacion farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC en JAVA*
 
+
+=============================================================================================
 # DESCARGA EN WINDOWS
 
 
@@ -22,7 +24,7 @@
 ## 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
 
-=========================================================================================================================
+=============================================================================================
 # DESCARGA EN LINUX(DESDE TERMINAL)
 ## 1)Abrir Terminal y Actualizar la lista de paquetes
 * **sudo apt -y update**
@@ -40,7 +42,7 @@
 * **ls -l**
 
 ## 5)Si no se tiene alguna herramienta para descomprimir el .rar descargar
-* ** sudo apt install unrar**
+* **sudo apt install unrar**
 
 ## 5)Testeamos la integridad del proyecto comprimido(tamaño total 25605249 b)
 * **unrar l Farmaco_ntz184-master.rar**
