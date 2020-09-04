@@ -10,7 +10,6 @@
 
 ## 3)CONFIGURAR EL DRIVER DESEADO DE MYSQL JDBC DESDE EL IDE.
 ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
-o
 ***Dentro del proyecto ..\FarmacoNTZ184_app\src\mypackage\driver***
 
 
