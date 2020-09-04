@@ -3,11 +3,11 @@
 
 # DESCARGA EN WINDOWS
 
-```
+
 ## 1)Descargar y Descomprimir el Proyecto
-```
-### Proyecto .rar ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
-### Proyecto .zip ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.zip***
+
+#### Proyecto .rar ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
+#### Proyecto .zip ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.zip***
 
 
 ## 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
