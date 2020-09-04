@@ -1,0 +1,22 @@
+Se desea tener a disposicion una gui para visualizar los relevamientos de datos que se realicen cada cierto
+periodo de tiempo por profesionales en el ambito cientifico de  un laboratorio que se centrara en la experimentacion 
+de un farmaco fantasia para corroborar el avance positivo o no en un desarrollo neurodegenerativo en chimpances.
+
+Las tres variables de mayor relevancia son: la fecha de control/aplicacion del farmaco, el % de aplicacion del mismo por individuo 
+y la fase evolutiva de la enfermedad neurodegenerativa
+
+Habra 1 grupo de control(1A, que no se le aplica el farmaco) y 2 grupos experimentales(1B/1C, que se les aplicara el farmaco)
+{Necesariamente debe coexistir 1 grupo de respaldo experimental a modo de agregar respaldo a una posible validacion del farmaco}
+
+Existen 3 fases de control/descriptivas en relacion a la condicion que se encuentre el individuo
+Fase 0:No presenta cambios
+Fase 1:Cambios Significativos
+Fase 2:Estado critico
+Fase 3:muerte
+
+
+--A tener en consideracion--
+{El porcentaje o concentraccion del farmaco no se dosifica en relacion a ninguna variable(peso, altura,etc), es ficticia} 
+{No se consideran variables externa como por ejemplo, temperatura ambiental, estres,etc}
+{Se desea minimizar todas las circunstacias y posibles contextos para escalabilidad futura del software y menor complejidad}
+{No aplica a una modelizacion cientifica real, solo fines didacticos creado por gusto personal}
