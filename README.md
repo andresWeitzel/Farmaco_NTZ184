@@ -16,9 +16,8 @@
 ## 3)Configurar el driver deseado de mysql jdbc desde el ide.
 
 
-### Driver desde repositorio ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
-
-### Driver desde proyecto **..\FarmacoNTZ184_app\src\mypackage\driver**
+#### Driver desde repositorio ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
+#### Driver desde proyecto **..\FarmacoNTZ184_app\src\mypackage\driver**
 
 
 ## 4)Ejecutar el Proyecto desde el .jar o desde el ide
