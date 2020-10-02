@@ -1,8 +1,8 @@
 ## Proyecto_Farmaco_NTZ184
-*Proyecto  etapa de experimentacion farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC en JAVA*
+* **Proyecto  etapa de experimentacion farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC en JAVA**
 
 
-=============================================================================================
+===========================================================================================
 ## DESCARGA EN WINDOWS
 
 
@@ -27,7 +27,7 @@
 * **contraseña:1**
 
 
-=============================================================================================
+===========================================================================================
 ## DESCARGA EN LINUX(DESDE TERMINAL)
 ### 1)Abrir Terminal y Actualizar la lista de paquetes
 * **sudo apt -y update**
