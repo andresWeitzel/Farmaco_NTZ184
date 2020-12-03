@@ -17,16 +17,15 @@
 
 *  `Proyecto .rar en:` ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 
-
+</br>
 #### 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
 
-
+</br>
 #### 3)Configurar el driver deseado de mysql  y ejecutar el ddl/dml del proyecto  desde el ide.
 
-
-* `Driver desde el repositorio` **https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers** 
+* `Driver desde el repositorio` ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 * `Ruta del driver desde la carpeta dentro del proyecto  ..\FarmacoNTZ184_app\src\mypackage\driver`
-
+</br>
 ### 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
 ### 5)Los campos para validar el ingreso de nuevos individuos son
