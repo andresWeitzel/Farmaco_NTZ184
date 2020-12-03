@@ -1,6 +1,6 @@
 # Proyecto Farmaco_NTZ184
 
- **Proyecto acerca de etapa de experimentacion de un farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
+ **Proyecto acerca de una etapa de experimentacion fictícia en chimpancés en el área cientifica  de un farmaco fictício relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
 
 | Tecnologías | Versión |
 | ------------- | ------------- |
