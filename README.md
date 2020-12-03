@@ -1,20 +1,21 @@
 # Proyecto Farmaco_NTZ184
 
  **Proyecto acerca de una etapa de experimentacion fictícia en chimpancés en el área cientifica  de un farmaco fictício relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
+ 
+ </br>
 
-| Tecnologías | Versión |
+| Tecnologías | Versión |               
 | ------------- | ------------- |
 | Java |   12.0.2 |
 | Apache NetBeans |  12.0 |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
 
-| Tecnologías |
+| Patrones de Diseño|
 | ------------- |
-| Java |  
-| Apache NetBeans |
-| XAMPP |
-| Mysql Workbench | 
+| Singleton |  
+| Dao |
+
 
 </br>
 
