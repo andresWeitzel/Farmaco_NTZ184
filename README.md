@@ -15,18 +15,14 @@
 
 #### 1)Descargar y Descomprimir el Proyecto
 
-*  `Proyecto .rar en:` ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
-
-</br>
+ Proyecto`.rar` en: ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 
 #### 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
 
-</br>
-
 #### 3)Configurar el driver deseado de mysql  y ejecutar el ddl/dml del proyecto  desde el ide.
 
-* `Driver desde el repositorio` ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
-* `Ruta del driver desde la carpeta dentro del proyecto  ..\FarmacoNTZ184_app\src\mypackage\driver`
+Driver desde el repositorio siguiente: ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
+Ruta del driver desde la carpeta dentro del proyecto  `..\FarmacoNTZ184_app\src\mypackage\driver`
 
 </br>
 
