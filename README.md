@@ -9,6 +9,13 @@
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
 
+| Tecnologías |
+| ------------- |
+| Java |  
+| Apache NetBeans |
+| XAMPP |
+| Mysql Workbench | 
+
 </br>
 
 ## DESCARGA Y TESTEO EN WINDOWS
