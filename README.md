@@ -11,36 +11,34 @@
 
 </br>
 
-## DESCARGA EN WINDOWS
+## DESCARGA Y TESTEO EN WINDOWS
 
 #### 1)Descargar y Descomprimir el Proyecto
-
  * Proyecto`.rar` en: ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 
 #### 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
 
 #### 3)Configurar el driver deseado de mysql  y ejecutar el ddl/dml del proyecto  desde el ide.
-
 * Driver desde el repositorio siguiente: ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
 * Ruta del driver desde la carpeta dentro del proyecto  `..\FarmacoNTZ184_app\src\mypackage\driver`
 
+#### 4)Ejecutar el Proyecto desde el .jar  o desde el ide
+
+#### 5)Los campos para validar el ingreso de nuevos individuos son
+* `usuario:1`
+* `contraseña:1`
+
 </br>
 
-### 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
-### 5)Los campos para validar el ingreso de nuevos individuos son
-* **usuario:1**
-* **contraseña:1**
+## DESCARGA Y TESTEO EN LINUX(DESDE TERMINAL)
 
-
-===========================================================================================
-## DESCARGA EN LINUX(DESDE TERMINAL)
-### 1)Abrir Terminal y Actualizar la lista de paquetes
-* **sudo apt -y update**
+### 1)Abrir la Terminal y Actualizar la lista de repositorios
+* sudo apt -y update
 
 ### 2)Levantar y verificar que esta corriendo el servicio de mysql
-* **sudo service mysql start**
-* **sudo service mysql status**
+* sudo service mysql start
+* sudo service mysql status
 
 ### 3)Clonar el repositorio del Proyecto
 * **git clone** ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master***
@@ -69,8 +67,5 @@
 * **java -jar FarmacoNTZ184_app.jar**
 
 ### 9)Los campos para validar el ingreso de nuevos individuos son
-* **usuario:1**
-* **contraseña:1**
-
-
-
+* `usuario:1`
+* `contraseña:1`
