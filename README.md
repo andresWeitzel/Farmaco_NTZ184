@@ -11,10 +11,10 @@
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
 
-| Patrones de Diseño|
+| ## Patrones de Diseño|
 | ------------- |
-| Singleton |  
-| Dao |
+| * **Singleton** |  
+| * **Dao** |
 
 
 </br>
