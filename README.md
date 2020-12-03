@@ -1,6 +1,6 @@
 # Proyecto_Farmaco_NTZ184
 
-* **Proyecto acerca de etapa de experimentacion de un farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
+ **Proyecto acerca de etapa de experimentacion de un farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
 
 | Tecnologías | Versión |
 | ------------- | ------------- |
@@ -24,8 +24,8 @@
 ### 3)Configurar el driver deseado de mysql  y ejecutar el ddl/dml del proyecto  desde el ide.
 
 
-* **Driver desde repositorio** ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
-* **Driver desde proyecto** ***..\FarmacoNTZ184_app\src\mypackage\driver***
+* **`Driver desde repositorio`** ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
+* **`Driver desde proyecto`** ***..\FarmacoNTZ184_app\src\mypackage\driver***
 
 ### 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
