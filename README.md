@@ -4,17 +4,16 @@
  
  </br>
 
-| Tecnologías | Versión |               
+| **Tecnologías** | **Versión** |               
 | ------------- | ------------- |
 | Java |   12.0.2 |
 | Apache NetBeans |  12.0 |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
 
-| ## Patrones de Diseño|
-| ------------- |
-| * **Singleton** |  
-| * **Dao** |
+ ## Patrones de Diseño Implementados
+ * **Singleton** 
+ * **Dao** 
 
 
 </br>
