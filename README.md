@@ -1,14 +1,21 @@
-## Proyecto_Farmaco_NTZ184
-* **Proyecto  etapa de experimentacion farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC en JAVA**
+# Proyecto_Farmaco_NTZ184
 
+* **Proyecto acerca de etapa de experimentacion de un farmaco_NTZ184 de fantasia relacionando la DB con una GUI utilizando JDBC con MySQL en JAVA SE con Ant**
 
-===========================================================================================
+| Tecnologías | Versión |
+| ------------- | ------------- |
+| Java |   12.0.2 |
+| Apache NetBeans |  12.0 |
+| XAMPP | 3.2.2  |
+| Mysql Workbench | 8.0.20  |
+
+</br>
+
 ## DESCARGA EN WINDOWS
-
 
 ### 1)Descargar y Descomprimir el Proyecto
 
-*  **Proyecto .rar** ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
+*  **`Proyecto .rar`** ***https://github.com/andresWeitzel/Farmaco_NTZ184/blob/master/FarmacoNTZ184_app.rar***
 
 
 ### 2)Levantar el servicio mysql desde algun motor de base de datos o desde el cmd/powershell.
