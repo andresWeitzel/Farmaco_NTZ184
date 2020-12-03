@@ -24,8 +24,8 @@
 #### 3)Configurar el driver deseado de mysql  y ejecutar el ddl/dml del proyecto  desde el ide.
 
 
-* `Driver desde el repositorio` ***https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers*** 
-* `Ruta del driver desde la carpeta dentro del proyecto proyecto ***..\FarmacoNTZ184_app\src\mypackage\driver*** `
+* `Driver desde el repositorio` **https://github.com/andresWeitzel/Farmaco_NTZ184/tree/master/Drivers** 
+* `Ruta del driver desde la carpeta dentro del proyecto  ..\FarmacoNTZ184_app\src\mypackage\driver`
 
 ### 4)Ejecutar el Proyecto desde el .jar  o desde el ide
 
