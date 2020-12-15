@@ -15,10 +15,10 @@
  * **Singleton** 
  * **Dao** 
  
- ## Tipo de Programación
- ### Funcional-> java8
-* **Uso de Streams y Lambdas**
+ ## Uso de Java8
+* **Streams y Lambdas**
 * **Filters**
+* **Collections**
 * **Etc..**
 
 </br>
