@@ -7,7 +7,7 @@
 | **Tecnologías** | **Versión** |               
 | ------------- | ------------- |
 | Java |   12.0.2 |
-| Apache NetBeans |  12.0 |
+| Apache NetBeans IDE|  12.0 |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
 
@@ -22,6 +22,8 @@
 * **Etc..**
 
 </br>
+
+# EJECUCIÓN DE LA APP
 
 ## DESCARGA Y TESTEO EN WINDOWS
 
