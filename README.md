@@ -14,7 +14,12 @@
  ## Patrones de Diseño Implementados
  * **Singleton** 
  * **Dao** 
-
+ 
+ ## Tipo de Programación
+ ### Funcional-> java8
+* **Uso de Streams y Lambdas**
+* **Filters**
+* **Etc..**
 
 </br>
 
