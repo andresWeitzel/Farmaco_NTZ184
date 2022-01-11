@@ -23,6 +23,12 @@
 
 </br>
 
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/FarmacoNTZ184/Captura%20de%20pantalla%20(515).png)
+
+
+</br>
+
+
 # EJECUCIÓN DE LA APP
 
 ## DESCARGA Y TESTEO EN WINDOWS
